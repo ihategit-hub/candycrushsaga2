@@ -1,0 +1,12 @@
+﻿  raylib-test.c
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(171,3): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(171,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(171,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(171,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(298,3): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(298,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(298,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(298,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(314,27): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop1\source\repos\raylib,\raylib-test.c(315,32): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  raylib,.vcxproj -> C:\Users\laptop1\source\repos\raylib,\x64\Debug\raylib.exe
